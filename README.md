@@ -1,5 +1,5 @@
 # DL_RHT
-Codes associated to the thesis "Deep Learning and Radiative Heat Transfer"
+Codes associated to the thesis "Deep Learning and Radiative Heat Transfer" by Juan José García Esteban.
 
 There are 8 notebook files, each one relating to diffeent computational methods and topics related to the thesis content:
 
