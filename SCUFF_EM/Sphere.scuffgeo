@@ -1,0 +1,4 @@
+OBJECT	Sphere
+	MESHFILE Sphere.msh
+ 	MATERIAL FILE_SiO2_datafile
+ENDOBJECT
